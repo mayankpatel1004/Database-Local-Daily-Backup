@@ -119137,3 +119137,728 @@ Waiting 10 Seconds...
 Pushing files to GitHub one by one...
 Processing backup_and_push.log
 Running: git add "backup_and_push.log"
+Running: git commit -m "Auto backup: backup_and_push.log - 2026-09-01 18:00:27"
+[main cc801f9e] Auto backup: backup_and_push.log - 2026-09-01 18:00:27
+ 1 file changed, 717 insertions(+)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   137ee96f..cc801f9e  main -> main
+Processing backup.log
+Running: git add "backup.log"
+Running: git commit -m "Auto backup: backup.log - 2026-09-01 18:00:37"
+[main 5e79a2d2] Auto backup: backup.log - 2026-09-01 18:00:37
+ 1 file changed, 1 insertion(+)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   cc801f9e..5e79a2d2  main -> main
+Processing Demonstration.sql.gz
+Running: git add "Demonstration.sql.gz"
+Running: git commit -m "Auto backup: Demonstration.sql.gz - 2026-09-01 18:00:46"
+[main ed1960ff] Auto backup: Demonstration.sql.gz - 2026-09-01 18:00:46
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   5e79a2d2..ed1960ff  main -> main
+Processing em0MfHt3SE.sql.gz
+Running: git add "em0MfHt3SE.sql.gz"
+No changes to commit for em0MfHt3SE.sql.gz
+Processing em13R5UkWG.sql.gz
+Running: git add "em13R5UkWG.sql.gz"
+Running: git commit -m "Auto backup: em13R5UkWG.sql.gz - 2026-09-01 18:00:59"
+[main 5ceac2d1] Auto backup: em13R5UkWG.sql.gz - 2026-09-01 18:00:59
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   ed1960ff..5ceac2d1  main -> main
+Processing em1KnujFja.sql.gz
+Running: git add "em1KnujFja.sql.gz"
+No changes to commit for em1KnujFja.sql.gz
+Processing em1LNYZsUy.sql.gz
+Running: git add "em1LNYZsUy.sql.gz"
+Running: git commit -m "Auto backup: em1LNYZsUy.sql.gz - 2026-09-01 18:01:14"
+[main 466a2c38] Auto backup: em1LNYZsUy.sql.gz - 2026-09-01 18:01:14
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   5ceac2d1..466a2c38  main -> main
+Processing em1M5zrCwn.sql.gz
+Running: git add "em1M5zrCwn.sql.gz"
+Running: git commit -m "Auto backup: em1M5zrCwn.sql.gz - 2026-09-01 18:01:23"
+[main 2a2751f2] Auto backup: em1M5zrCwn.sql.gz - 2026-09-01 18:01:23
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   466a2c38..2a2751f2  main -> main
+Processing em1UqU8WT7.sql.gz
+Running: git add "em1UqU8WT7.sql.gz"
+No changes to commit for em1UqU8WT7.sql.gz
+Processing em2McYfZJC.sql.gz
+Running: git add "em2McYfZJC.sql.gz"
+Running: git commit -m "Auto backup: em2McYfZJC.sql.gz - 2026-09-01 18:01:36"
+[main 39af75d2] Auto backup: em2McYfZJC.sql.gz - 2026-09-01 18:01:36
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   2a2751f2..39af75d2  main -> main
+Processing em3iuVsLdu.sql.gz
+Running: git add "em3iuVsLdu.sql.gz"
+Running: git commit -m "Auto backup: em3iuVsLdu.sql.gz - 2026-09-01 18:01:46"
+[main e7525389] Auto backup: em3iuVsLdu.sql.gz - 2026-09-01 18:01:46
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   39af75d2..e7525389  main -> main
+Processing em3Wh5FAfT.sql.gz
+Running: git add "em3Wh5FAfT.sql.gz"
+Running: git commit -m "Auto backup: em3Wh5FAfT.sql.gz - 2026-09-01 18:01:54"
+[main 178ed941] Auto backup: em3Wh5FAfT.sql.gz - 2026-09-01 18:01:54
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   e7525389..178ed941  main -> main
+Processing em3X4AG5Hl.sql.gz
+Running: git add "em3X4AG5Hl.sql.gz"
+No changes to commit for em3X4AG5Hl.sql.gz
+Processing em4xvp6nmD.sql.gz
+Running: git add "em4xvp6nmD.sql.gz"
+No changes to commit for em4xvp6nmD.sql.gz
+Processing em4zbo80xl.sql.gz
+Running: git add "em4zbo80xl.sql.gz"
+Running: git commit -m "Auto backup: em4zbo80xl.sql.gz - 2026-09-01 18:02:13"
+[main 796feb9b] Auto backup: em4zbo80xl.sql.gz - 2026-09-01 18:02:13
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   178ed941..796feb9b  main -> main
+Processing em59ualhPv.sql.gz
+Running: git add "em59ualhPv.sql.gz"
+No changes to commit for em59ualhPv.sql.gz
+Processing em5pZY3ijC.sql.gz
+Running: git add "em5pZY3ijC.sql.gz"
+Running: git commit -m "Auto backup: em5pZY3ijC.sql.gz - 2026-09-01 18:02:27"
+[main e2c75e1f] Auto backup: em5pZY3ijC.sql.gz - 2026-09-01 18:02:27
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   796feb9b..e2c75e1f  main -> main
+Processing em5sYR2P0z.sql.gz
+Running: git add "em5sYR2P0z.sql.gz"
+No changes to commit for em5sYR2P0z.sql.gz
+Processing em6NzHwcLq.sql.gz
+Running: git add "em6NzHwcLq.sql.gz"
+No changes to commit for em6NzHwcLq.sql.gz
+Processing em9K1DmgIu.sql.gz
+Running: git add "em9K1DmgIu.sql.gz"
+Running: git commit -m "Auto backup: em9K1DmgIu.sql.gz - 2026-09-01 18:02:47"
+[main cd91263d] Auto backup: em9K1DmgIu.sql.gz - 2026-09-01 18:02:47
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   e2c75e1f..cd91263d  main -> main
+Processing ema4LCDZKv.sql.gz
+Running: git add "ema4LCDZKv.sql.gz"
+No changes to commit for ema4LCDZKv.sql.gz
+Processing emacF0Z0Ty.sql.gz
+Running: git add "emacF0Z0Ty.sql.gz"
+No changes to commit for emacF0Z0Ty.sql.gz
+Processing emaHBwsQhv.sql.gz
+Running: git add "emaHBwsQhv.sql.gz"
+Running: git commit -m "Auto backup: emaHBwsQhv.sql.gz - 2026-09-01 18:03:06"
+[main 8e912c65] Auto backup: emaHBwsQhv.sql.gz - 2026-09-01 18:03:06
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   cd91263d..8e912c65  main -> main
+Processing emAitVteVP.sql.gz
+Running: git add "emAitVteVP.sql.gz"
+No changes to commit for emAitVteVP.sql.gz
+Processing emandi_uat.sql.gz
+Running: git add "emandi_uat.sql.gz"
+Running: git commit -m "Auto backup: emandi_uat.sql.gz - 2026-09-01 18:03:20"
+[main 3e5a9279] Auto backup: emandi_uat.sql.gz - 2026-09-01 18:03:20
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   8e912c65..3e5a9279  main -> main
+Processing emAUKyeoZq.sql.gz
+Running: git add "emAUKyeoZq.sql.gz"
+Running: git commit -m "Auto backup: emAUKyeoZq.sql.gz - 2026-09-01 18:03:33"
+[main fb56092e] Auto backup: emAUKyeoZq.sql.gz - 2026-09-01 18:03:33
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   3e5a9279..fb56092e  main -> main
+Processing emb7eUj0GE.sql.gz
+Running: git add "emb7eUj0GE.sql.gz"
+Running: git commit -m "Auto backup: emb7eUj0GE.sql.gz - 2026-09-01 18:03:42"
+[main b656d867] Auto backup: emb7eUj0GE.sql.gz - 2026-09-01 18:03:42
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   fb56092e..b656d867  main -> main
+Processing embu08HicZ.sql.gz
+Running: git add "embu08HicZ.sql.gz"
+No changes to commit for embu08HicZ.sql.gz
+Processing embuZAeuHb.sql.gz
+Running: git add "embuZAeuHb.sql.gz"
+Running: git commit -m "Auto backup: embuZAeuHb.sql.gz - 2026-09-01 18:03:56"
+[main 849784f3] Auto backup: embuZAeuHb.sql.gz - 2026-09-01 18:03:56
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   b656d867..849784f3  main -> main
+Processing emcJTx93fT.sql.gz
+Running: git add "emcJTx93fT.sql.gz"
+Running: git commit -m "Auto backup: emcJTx93fT.sql.gz - 2026-09-01 18:04:06"
+[main 49766219] Auto backup: emcJTx93fT.sql.gz - 2026-09-01 18:04:06
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   849784f3..49766219  main -> main
+Processing emCRmYpA8H.sql.gz
+Running: git add "emCRmYpA8H.sql.gz"
+Running: git commit -m "Auto backup: emCRmYpA8H.sql.gz - 2026-09-01 18:04:15"
+[main 72aada81] Auto backup: emCRmYpA8H.sql.gz - 2026-09-01 18:04:15
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   49766219..72aada81  main -> main
+Processing emcV0U8j13.sql.gz
+Running: git add "emcV0U8j13.sql.gz"
+No changes to commit for emcV0U8j13.sql.gz
+Processing emD8woWDlg.sql.gz
+Running: git add "emD8woWDlg.sql.gz"
+Running: git commit -m "Auto backup: emD8woWDlg.sql.gz - 2026-09-01 18:04:29"
+[main e1e62fe8] Auto backup: emD8woWDlg.sql.gz - 2026-09-01 18:04:29
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   72aada81..e1e62fe8  main -> main
+Processing emDi8JwEsS.sql.gz
+Running: git add "emDi8JwEsS.sql.gz"
+Running: git commit -m "Auto backup: emDi8JwEsS.sql.gz - 2026-09-01 18:04:38"
+[main 8005787f] Auto backup: emDi8JwEsS.sql.gz - 2026-09-01 18:04:38
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   e1e62fe8..8005787f  main -> main
+Processing emdRG95SMv.sql.gz
+Running: git add "emdRG95SMv.sql.gz"
+Running: git commit -m "Auto backup: emdRG95SMv.sql.gz - 2026-09-01 18:04:47"
+[main 64f433e8] Auto backup: emdRG95SMv.sql.gz - 2026-09-01 18:04:47
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   8005787f..64f433e8  main -> main
+Processing emdXqXpZsm.sql.gz
+Running: git add "emdXqXpZsm.sql.gz"
+Running: git commit -m "Auto backup: emdXqXpZsm.sql.gz - 2026-09-01 18:04:56"
+[main 6d12af31] Auto backup: emdXqXpZsm.sql.gz - 2026-09-01 18:04:56
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   64f433e8..6d12af31  main -> main
+Processing emenYd0rx2.sql.gz
+Running: git add "emenYd0rx2.sql.gz"
+No changes to commit for emenYd0rx2.sql.gz
+Processing emes75rl4u.sql.gz
+Running: git add "emes75rl4u.sql.gz"
+No changes to commit for emes75rl4u.sql.gz
+Processing emESQzFJHl.sql.gz
+Running: git add "emESQzFJHl.sql.gz"
+No changes to commit for emESQzFJHl.sql.gz
+Processing emFNcHPn9k.sql.gz
+Running: git add "emFNcHPn9k.sql.gz"
+No changes to commit for emFNcHPn9k.sql.gz
+Processing emftCsPUdK.sql.gz
+Running: git add "emftCsPUdK.sql.gz"
+Running: git commit -m "Auto backup: emftCsPUdK.sql.gz - 2026-09-01 18:05:25"
+[main 30b62d05] Auto backup: emftCsPUdK.sql.gz - 2026-09-01 18:05:25
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   6d12af31..30b62d05  main -> main
+Processing emgPLvVgdh.sql.gz
+Running: git add "emgPLvVgdh.sql.gz"
+No changes to commit for emgPLvVgdh.sql.gz
+Processing emGzcBu8jN.sql.gz
+Running: git add "emGzcBu8jN.sql.gz"
+Running: git commit -m "Auto backup: emGzcBu8jN.sql.gz - 2026-09-01 18:05:40"
+[main d6ad8a69] Auto backup: emGzcBu8jN.sql.gz - 2026-09-01 18:05:40
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   30b62d05..d6ad8a69  main -> main
+Processing emHDomhhWH.sql.gz
+Running: git add "emHDomhhWH.sql.gz"
+No changes to commit for emHDomhhWH.sql.gz
+Processing emHm3u0mU0.sql.gz
+Running: git add "emHm3u0mU0.sql.gz"
+Running: git commit -m "Auto backup: emHm3u0mU0.sql.gz - 2026-09-01 18:05:54"
+[main 5c78a5a1] Auto backup: emHm3u0mU0.sql.gz - 2026-09-01 18:05:54
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   d6ad8a69..5c78a5a1  main -> main
+Processing emhOTRk17c.sql.gz
+Running: git add "emhOTRk17c.sql.gz"
+No changes to commit for emhOTRk17c.sql.gz
+Processing emhtlSV4Oe.sql.gz
+Running: git add "emhtlSV4Oe.sql.gz"
+Running: git commit -m "Auto backup: emhtlSV4Oe.sql.gz - 2026-09-01 18:06:08"
+[main 8af82cdf] Auto backup: emhtlSV4Oe.sql.gz - 2026-09-01 18:06:08
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   5c78a5a1..8af82cdf  main -> main
+Processing emI4jkt90w.sql.gz
+Running: git add "emI4jkt90w.sql.gz"
+Running: git commit -m "Auto backup: emI4jkt90w.sql.gz - 2026-09-01 18:06:17"
+[main 094279b3] Auto backup: emI4jkt90w.sql.gz - 2026-09-01 18:06:17
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   8af82cdf..094279b3  main -> main
+Processing emimJ42Mn6.sql.gz
+Running: git add "emimJ42Mn6.sql.gz"
+No changes to commit for emimJ42Mn6.sql.gz
+Processing emiSfao6Td.sql.gz
+Running: git add "emiSfao6Td.sql.gz"
+Running: git commit -m "Auto backup: emiSfao6Td.sql.gz - 2026-09-01 18:06:31"
+[main 39e17e9d] Auto backup: emiSfao6Td.sql.gz - 2026-09-01 18:06:31
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   094279b3..39e17e9d  main -> main
+Processing emixt1Gib1.sql.gz
+Running: git add "emixt1Gib1.sql.gz"
+No changes to commit for emixt1Gib1.sql.gz
+Processing emJZsOGtk5.sql.gz
+Running: git add "emJZsOGtk5.sql.gz"
+Running: git commit -m "Auto backup: emJZsOGtk5.sql.gz - 2026-09-01 18:06:45"
+[main 3f4d871e] Auto backup: emJZsOGtk5.sql.gz - 2026-09-01 18:06:45
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   39e17e9d..3f4d871e  main -> main
+Processing emKcVcA5xR.sql.gz
+Running: git add "emKcVcA5xR.sql.gz"
+No changes to commit for emKcVcA5xR.sql.gz
+Processing emKffL9CP3.sql.gz
+Running: git add "emKffL9CP3.sql.gz"
+No changes to commit for emKffL9CP3.sql.gz
+Processing emkQQjBIGY.sql.gz
+Running: git add "emkQQjBIGY.sql.gz"
+Running: git commit -m "Auto backup: emkQQjBIGY.sql.gz - 2026-09-01 18:07:04"
+[main 01ab31fd] Auto backup: emkQQjBIGY.sql.gz - 2026-09-01 18:07:04
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   3f4d871e..01ab31fd  main -> main
+Processing emLJBSZJnC.sql.gz
+Running: git add "emLJBSZJnC.sql.gz"
+Running: git commit -m "Auto backup: emLJBSZJnC.sql.gz - 2026-09-01 18:07:14"
+[main 718560fa] Auto backup: emLJBSZJnC.sql.gz - 2026-09-01 18:07:14
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   01ab31fd..718560fa  main -> main
+Processing emltYZuOnu.sql.gz
+Running: git add "emltYZuOnu.sql.gz"
+No changes to commit for emltYZuOnu.sql.gz
+Processing emM8k7eP4c.sql.gz
+Running: git add "emM8k7eP4c.sql.gz"
+No changes to commit for emM8k7eP4c.sql.gz
+Processing emm9xc9HMJ.sql.gz
+Running: git add "emm9xc9HMJ.sql.gz"
+No changes to commit for emm9xc9HMJ.sql.gz
+Processing emmLCo2Ywc.sql.gz
+Running: git add "emmLCo2Ywc.sql.gz"
+Running: git commit -m "Auto backup: emmLCo2Ywc.sql.gz - 2026-09-01 18:07:38"
+[main 324ed329] Auto backup: emmLCo2Ywc.sql.gz - 2026-09-01 18:07:38
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   718560fa..324ed329  main -> main
+Processing emn3VpFfnd.sql.gz
+Running: git add "emn3VpFfnd.sql.gz"
+Running: git commit -m "Auto backup: emn3VpFfnd.sql.gz - 2026-09-01 18:07:47"
+[main 9cbae244] Auto backup: emn3VpFfnd.sql.gz - 2026-09-01 18:07:47
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   324ed329..9cbae244  main -> main
+Processing emNiFS2Yku.sql.gz
+Running: git add "emNiFS2Yku.sql.gz"
+No changes to commit for emNiFS2Yku.sql.gz
+Processing emNKmXwjuF.sql.gz
+Running: git add "emNKmXwjuF.sql.gz"
+No changes to commit for emNKmXwjuF.sql.gz
+Processing emNL2GTW20.sql.gz
+Running: git add "emNL2GTW20.sql.gz"
+No changes to commit for emNL2GTW20.sql.gz
+Processing emNL7XbRAj.sql.gz
+Running: git add "emNL7XbRAj.sql.gz"
+No changes to commit for emNL7XbRAj.sql.gz
+Processing emNuehN0Vz.sql.gz
+Running: git add "emNuehN0Vz.sql.gz"
+No changes to commit for emNuehN0Vz.sql.gz
+Processing emOngzWy3U.sql.gz
+Running: git add "emOngzWy3U.sql.gz"
+Running: git commit -m "Auto backup: emOngzWy3U.sql.gz - 2026-09-01 18:08:21"
+[main 8f8a2bc3] Auto backup: emOngzWy3U.sql.gz - 2026-09-01 18:08:21
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   9cbae244..8f8a2bc3  main -> main
+Processing emoqLIC8Xr.sql.gz
+Running: git add "emoqLIC8Xr.sql.gz"
+Running: git commit -m "Auto backup: emoqLIC8Xr.sql.gz - 2026-09-01 18:08:30"
+[main 7fb56dd7] Auto backup: emoqLIC8Xr.sql.gz - 2026-09-01 18:08:30
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   8f8a2bc3..7fb56dd7  main -> main
+Processing emOUAzw3Be.sql.gz
+Running: git add "emOUAzw3Be.sql.gz"
+No changes to commit for emOUAzw3Be.sql.gz
+Processing emp0rHAQys.sql.gz
+Running: git add "emp0rHAQys.sql.gz"
+Running: git commit -m "Auto backup: emp0rHAQys.sql.gz - 2026-09-01 18:08:44"
+[main 86dba73a] Auto backup: emp0rHAQys.sql.gz - 2026-09-01 18:08:44
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   7fb56dd7..86dba73a  main -> main
+Processing empALl1GjP.sql.gz
+Running: git add "empALl1GjP.sql.gz"
+No changes to commit for empALl1GjP.sql.gz
+Processing emPrTTZgAy.sql.gz
+Running: git add "emPrTTZgAy.sql.gz"
+Running: git commit -m "Auto backup: emPrTTZgAy.sql.gz - 2026-09-01 18:08:58"
+[main f7a67d52] Auto backup: emPrTTZgAy.sql.gz - 2026-09-01 18:08:58
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   86dba73a..f7a67d52  main -> main
+Processing emq3cFzzP7.sql.gz
+Running: git add "emq3cFzzP7.sql.gz"
+No changes to commit for emq3cFzzP7.sql.gz
+Processing emqj36u4LB.sql.gz
+Running: git add "emqj36u4LB.sql.gz"
+No changes to commit for emqj36u4LB.sql.gz
+Processing emqJAN12NB.sql.gz
+Running: git add "emqJAN12NB.sql.gz"
+Running: git commit -m "Auto backup: emqJAN12NB.sql.gz - 2026-09-01 18:09:25"
+[main b713d4ff] Auto backup: emqJAN12NB.sql.gz - 2026-09-01 18:09:25
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   f7a67d52..b713d4ff  main -> main
+Processing emqkQcnPpx.sql.gz
+Running: git add "emqkQcnPpx.sql.gz"
+Running: git commit -m "Auto backup: emqkQcnPpx.sql.gz - 2026-09-01 18:09:46"
+[main 1b1981a7] Auto backup: emqkQcnPpx.sql.gz - 2026-09-01 18:09:46
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   b713d4ff..1b1981a7  main -> main
+Processing emrdjrxwHg-1.sql.gz
+Running: git add "emrdjrxwHg-1.sql.gz"
+No changes to commit for emrdjrxwHg-1.sql.gz
+Processing emrdjrxwHg.sql.gz
+Running: git add "emrdjrxwHg.sql.gz"
+No changes to commit for emrdjrxwHg.sql.gz
+Processing emrgaJnLKL.sql.gz
+Running: git add "emrgaJnLKL.sql.gz"
+Running: git commit -m "Auto backup: emrgaJnLKL.sql.gz - 2026-09-01 18:10:11"
+[main 83fd44d8] Auto backup: emrgaJnLKL.sql.gz - 2026-09-01 18:10:11
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   1b1981a7..83fd44d8  main -> main
+Processing emrMU6boOj.sql.gz
+Running: git add "emrMU6boOj.sql.gz"
+No changes to commit for emrMU6boOj.sql.gz
+Processing emS5wOuHD5.sql.gz
+Running: git add "emS5wOuHD5.sql.gz"
+No changes to commit for emS5wOuHD5.sql.gz
+Processing emSepA2UGT.sql.gz
+Running: git add "emSepA2UGT.sql.gz"
+No changes to commit for emSepA2UGT.sql.gz
+Processing emSKnHGwY7.sql.gz
+Running: git add "emSKnHGwY7.sql.gz"
+No changes to commit for emSKnHGwY7.sql.gz
+Processing emsOegqgxr.sql.gz
+Running: git add "emsOegqgxr.sql.gz"
+No changes to commit for emsOegqgxr.sql.gz
+Processing emSRre0ZbI.sql.gz
+Running: git add "emSRre0ZbI.sql.gz"
+No changes to commit for emSRre0ZbI.sql.gz
+Processing emsSZNlCQ0.sql.gz
+Running: git add "emsSZNlCQ0.sql.gz"
+No changes to commit for emsSZNlCQ0.sql.gz
+Processing emsYPli02w.sql.gz
+Running: git add "emsYPli02w.sql.gz"
+Running: git commit -m "Auto backup: emsYPli02w.sql.gz - 2026-09-01 18:10:56"
+[main 1df0e53a] Auto backup: emsYPli02w.sql.gz - 2026-09-01 18:10:56
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   83fd44d8..1df0e53a  main -> main
+Processing emTD514UMw.sql.gz
+Running: git add "emTD514UMw.sql.gz"
+No changes to commit for emTD514UMw.sql.gz
+Processing emTLNyjwmS.sql.gz
+Running: git add "emTLNyjwmS.sql.gz"
+No changes to commit for emTLNyjwmS.sql.gz
+Processing emTUv6Ri5P.sql.gz
+Running: git add "emTUv6Ri5P.sql.gz"
+No changes to commit for emTUv6Ri5P.sql.gz
+Processing emU5RyvBYy.sql.gz
+Running: git add "emU5RyvBYy.sql.gz"
+No changes to commit for emU5RyvBYy.sql.gz
+Processing emUOjbMU3A.sql.gz
+Running: git add "emUOjbMU3A.sql.gz"
+No changes to commit for emUOjbMU3A.sql.gz
+Processing emVoqI3VGO.sql.gz
+Running: git add "emVoqI3VGO.sql.gz"
+No changes to commit for emVoqI3VGO.sql.gz
+Processing emvU9Y7Jil.sql.gz
+Running: git add "emvU9Y7Jil.sql.gz"
+Running: git commit -m "Auto backup: emvU9Y7Jil.sql.gz - 2026-09-01 18:11:35"
+[main 95a96ec6] Auto backup: emvU9Y7Jil.sql.gz - 2026-09-01 18:11:35
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   1df0e53a..95a96ec6  main -> main
+Processing emwBKq35LU.sql.gz
+Running: git add "emwBKq35LU.sql.gz"
+No changes to commit for emwBKq35LU.sql.gz
+Processing emwOkl9ozH.sql.gz
+Running: git add "emwOkl9ozH.sql.gz"
+Running: git commit -m "Auto backup: emwOkl9ozH.sql.gz - 2026-09-01 18:11:50"
+[main b58aa87b] Auto backup: emwOkl9ozH.sql.gz - 2026-09-01 18:11:50
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   95a96ec6..b58aa87b  main -> main
+Processing emX2uyJn0n.sql.gz
+Running: git add "emX2uyJn0n.sql.gz"
+Running: git commit -m "Auto backup: emX2uyJn0n.sql.gz - 2026-09-01 18:11:59"
+[main 4cfd12e4] Auto backup: emX2uyJn0n.sql.gz - 2026-09-01 18:11:59
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   b58aa87b..4cfd12e4  main -> main
+Processing emxzBlGf1W.sql.gz
+Running: git add "emxzBlGf1W.sql.gz"
+No changes to commit for emxzBlGf1W.sql.gz
+Processing emy83hyxwl.sql.gz
+Running: git add "emy83hyxwl.sql.gz"
+Running: git commit -m "Auto backup: emy83hyxwl.sql.gz - 2026-09-01 18:12:13"
+[main c8603be9] Auto backup: emy83hyxwl.sql.gz - 2026-09-01 18:12:13
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   4cfd12e4..c8603be9  main -> main
+Processing emykKVZjtc.sql.gz
+Running: git add "emykKVZjtc.sql.gz"
+No changes to commit for emykKVZjtc.sql.gz
+Processing emyzGlkEE7.sql.gz
+Running: git add "emyzGlkEE7.sql.gz"
+Running: git commit -m "Auto backup: emyzGlkEE7.sql.gz - 2026-09-01 18:12:27"
+[main 9cfbe871] Auto backup: emyzGlkEE7.sql.gz - 2026-09-01 18:12:27
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   c8603be9..9cfbe871  main -> main
+Processing emZbOZeku7.sql.gz
+Running: git add "emZbOZeku7.sql.gz"
+Running: git commit -m "Auto backup: emZbOZeku7.sql.gz - 2026-09-01 18:12:36"
+[main fd2084ef] Auto backup: emZbOZeku7.sql.gz - 2026-09-01 18:12:36
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   9cfbe871..fd2084ef  main -> main
+Processing emzBv4kISl.sql.gz
+Running: git add "emzBv4kISl.sql.gz"
+Running: git commit -m "Auto backup: emzBv4kISl.sql.gz - 2026-09-01 18:12:45"
+[main e8539c67] Auto backup: emzBv4kISl.sql.gz - 2026-09-01 18:12:45
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   fd2084ef..e8539c67  main -> main
+Processing emZbVXWD2l.sql.gz
+Running: git add "emZbVXWD2l.sql.gz"
+Running: git commit -m "Auto backup: emZbVXWD2l.sql.gz - 2026-09-01 18:12:58"
+[main 1d1b144a] Auto backup: emZbVXWD2l.sql.gz - 2026-09-01 18:12:58
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   e8539c67..1d1b144a  main -> main
+Processing emzllueYAu.sql.gz
+Running: git add "emzllueYAu.sql.gz"
+Running: git commit -m "Auto backup: emzllueYAu.sql.gz - 2026-09-01 18:13:06"
+[main 7f50f043] Auto backup: emzllueYAu.sql.gz - 2026-09-01 18:13:06
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   1d1b144a..7f50f043  main -> main
+Processing emzphabLsc.sql.gz
+Running: git add "emzphabLsc.sql.gz"
+No changes to commit for emzphabLsc.sql.gz
+Processing emZS6ubv6w.sql.gz
+Running: git add "emZS6ubv6w.sql.gz"
+No changes to commit for emZS6ubv6w.sql.gz
+Processing emzT78lTts.sql.gz
+Running: git add "emzT78lTts.sql.gz"
+Running: git commit -m "Auto backup: emzT78lTts.sql.gz - 2026-09-01 18:13:25"
+[main a3a48f69] Auto backup: emzT78lTts.sql.gz - 2026-09-01 18:13:25
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   7f50f043..a3a48f69  main -> main
+Processing gloriousjournal_com1.sql.gz
+Running: git add "gloriousjournal_com1.sql.gz"
+No changes to commit for gloriousjournal_com1.sql.gz
+Processing gloriousjournal_com.sql.gz
+Running: git add "gloriousjournal_com.sql.gz"
+Running: git commit -m "Auto backup: gloriousjournal_com.sql.gz - 2026-09-01 18:13:39"
+[main 0fe6bb8a] Auto backup: gloriousjournal_com.sql.gz - 2026-09-01 18:13:39
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   a3a48f69..0fe6bb8a  main -> main
+Processing gloriousnursing_in.sql.gz
+Running: git add "gloriousnursing_in.sql.gz"
+Running: git commit -m "Auto backup: gloriousnursing_in.sql.gz - 2026-09-01 18:13:48"
+[main 31dd329a] Auto backup: gloriousnursing_in.sql.gz - 2026-09-01 18:13:48
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   0fe6bb8a..31dd329a  main -> main
+Processing gopikids.sql.gz
+Running: git add "gopikids.sql.gz"
+Running: git commit -m "Auto backup: gopikids.sql.gz - 2026-09-01 18:13:57"
+[main ba2a8e2e] Auto backup: gopikids.sql.gz - 2026-09-01 18:13:57
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   31dd329a..ba2a8e2e  main -> main
+Processing nodejsframework.sql.gz
+Running: git add "nodejsframework.sql.gz"
+Running: git commit -m "Auto backup: nodejsframework.sql.gz - 2026-09-01 18:14:06"
+[main 80a9c90d] Auto backup: nodejsframework.sql.gz - 2026-09-01 18:14:06
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   ba2a8e2e..80a9c90d  main -> main
+Processing reeyalifestyle_com.sql.gz
+Running: git add "reeyalifestyle_com.sql.gz"
+Running: git commit -m "Auto backup: reeyalifestyle_com.sql.gz - 2026-09-01 18:14:15"
+[main de2965d8] Auto backup: reeyalifestyle_com.sql.gz - 2026-09-01 18:14:15
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   80a9c90d..de2965d8  main -> main
+Processing serviceproreport.sql.gz
+Running: git add "serviceproreport.sql.gz"
+Running: git commit -m "Auto backup: serviceproreport.sql.gz - 2026-09-01 18:14:29"
+[main f42b99f3] Auto backup: serviceproreport.sql.gz - 2026-09-01 18:14:29
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   de2965d8..f42b99f3  main -> main
+Processing servicepro.sql.gz
+Running: git add "servicepro.sql.gz"
+Running: git commit -m "Auto backup: servicepro.sql.gz - 2026-09-01 18:14:41"
+[main 42cfae92] Auto backup: servicepro.sql.gz - 2026-09-01 18:14:41
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   f42b99f3..42cfae92  main -> main
+Processing test.sql.gz
+Running: git add "test.sql.gz"
+Running: git commit -m "Auto backup: test.sql.gz - 2026-09-01 18:14:50"
+[main ef68218f] Auto backup: test.sql.gz - 2026-09-01 18:14:50
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   42cfae92..ef68218f  main -> main
+Processing u797036281_cloudswiftsol.sql.gz
+Running: git add "u797036281_cloudswiftsol.sql.gz"
+Running: git commit -m "Auto backup: u797036281_cloudswiftsol.sql.gz - 2026-09-01 18:14:59"
+[main 4d06cd3d] Auto backup: u797036281_cloudswiftsol.sql.gz - 2026-09-01 18:14:59
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Running: git push origin main
+To github.com:mayankpatel1004/Database-Local-Daily-Backup.git
+   ef68218f..4d06cd3d  main -> main
+Completed at: Tuesday 01 September 2026 06:15:08 PM IST
+============================
+============================
+Started at: Wednesday 02 September 2026 11:05:31 AM IST
+Running: sh /home/mayankpatel104/OneDrive/config-file/mysql-daily-backup.sh
+Backing up Demonstration...
+Backing up em13R5UkWG...
+Backing up em1LNYZsUy...
+Backing up em1M5zrCwn...
+Backing up em2McYfZJC...
+Backing up em3Wh5FAfT...
+Backing up em3iuVsLdu...
+Backing up em4zbo80xl...
+Backing up em5pZY3ijC...
+Backing up em9K1DmgIu...
+Backing up emAUKyeoZq...
+Backing up emCRmYpA8H...
+Backing up emD8woWDlg...
+Backing up emDi8JwEsS...
+Backing up emGzcBu8jN...
+Backing up emHm3u0mU0...
+Backing up emI4jkt90w...
+Backing up emJZsOGtk5...
+Backing up emLJBSZJnC...
+Backing up emOngzWy3U...
+Backing up emPrTTZgAy...
+Backing up emX2uyJn0n...
+Backing up emZbOZeku7...
+Backing up emZbVXWD2l...
+Backing up emaHBwsQhv...
+Backing up emandi_uat...
+Backing up emb7eUj0GE...
+Backing up embuZAeuHb...
+Backing up emcJTx93fT...
+Backing up emdRG95SMv...
+Backing up emdXqXpZsm...
+Backing up emftCsPUdK...
+Backing up emhtlSV4Oe...
+Backing up emiSfao6Td...
+Backing up emkQQjBIGY...
+Backing up emmLCo2Ywc...
+Backing up emn3VpFfnd...
+Backing up emoqLIC8Xr...
+Backing up emp0rHAQys...
+Backing up emqJAN12NB...
+Backing up emqkQcnPpx...
+Backing up emrgaJnLKL...
+Backing up emsYPli02w...
+Backing up emvU9Y7Jil...
+Backing up emwOkl9ozH...
+Backing up emy83hyxwl...
+Backing up emyzGlkEE7...
+Backing up emzBv4kISl...
+Backing up emzT78lTts...
+Backing up emzllueYAu...
+Backing up gloriousjournal_com...
+Backing up gloriousnursing_in...
+Backing up gopikids...
+Backing up nodejsframework...
+Backing up reeyalifestyle_com...
+Backing up servicepro...
+Backing up serviceproreport...
+Backing up test...
+Backing up u797036281_cloudswiftsol...
+Waiting 10 Seconds...
+Pushing files to GitHub one by one...
+Processing backup_and_push.log
+Running: git add "backup_and_push.log"
